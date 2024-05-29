@@ -14,7 +14,7 @@
   
   
 
-  <h3>  Unleash the Power of Your Online Store: Build a Database Engine with Smart Search for Effortless Sales and Scalability!</h3>
+  <h3>  From Kaggle to Snowflake in a flash, this script streams taxi trips for anaylsis, visualizations and machine learning!</h3>
   
   <img src="./Graphs/taxi_trips.png" alt="logo">
 
@@ -29,7 +29,7 @@ the economics of taxi rides within the city.
 
 
 
-## 📈 Sammple Visualizations
+## 📈 Sample Visualizations
 **Please check code inside notebooks with more visualizations and detailed explanations**
 
 ![trip_by_fare.png](./Graphs/trip_by_fare.png)
